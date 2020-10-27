@@ -1,4 +1,4 @@
-from src.games import game_type, player_guess, computer_guess, play_again
+from src.guess_helper import game_type, player_guess, computer_guess, play_again
 import random
 
 print("---- Let's play Guess The Number ----")
